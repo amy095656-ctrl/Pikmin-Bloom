@@ -1,6 +1,15 @@
+//
+//  BadgeCategoryView.swift
+//  Pikmin Bloom
+//
+//  Created by 115-1Student04 on 2026/10/16.
+//
+
+
 import Playgrounds
 import SwiftUI
 
+//（對應）2-3. 徽章區
 struct BadgeCategoryView: View {
     let title: String
     let image1: String

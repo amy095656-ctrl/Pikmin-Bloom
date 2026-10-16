@@ -1,3 +1,13 @@
+//
+//  ProgressBar.swift
+//  Pikmin Bloom
+//
+//  Created by 115-1Student04 on 2026/10/16.
+//
+import Playgrounds
+import SwiftUI
+
+//（對應）2-2. 個人資料區
 struct ProgressBar: View {
     let value: Double 
     let total: Double
